@@ -1,0 +1,14 @@
+#!/bin/bash
+
+     mkdir dev
+     mkdir etc
+     mkdir home
+     mkdir lib
+     mkdir mnt
+     mkdir opt
+     mkdir proc
+     mkdir root
+     mkdir sys
+     mkdir tmp
+     mkdir var
+     mkdir lib/modules
